@@ -15,7 +15,6 @@ class Person():
         self.date_of_birth=self.get_date_of_birth()
         self.age=self.get_age()
         self.id=self.get_id()
-        
     
     def generate_id(self):
         pass
